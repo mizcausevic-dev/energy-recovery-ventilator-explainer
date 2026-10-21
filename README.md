@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/energy-recovery-ventilator-explainer/
 
+Repository: https://github.com/mizcausevic-dev/energy-recovery-ventilator-explainer
+
 ## What this is
 
 An interactive anatomy plate for Energy-Recovery Ventilator. Play, scrub, or jump the five stages. The same frame always draws the same picture.
